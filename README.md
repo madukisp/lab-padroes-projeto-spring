@@ -7,4 +7,3 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Facade
 =======
 # lab-padroes-projeto-spring
->>>>>>> 629dbb04156f3f16b2c78ec42a3ccde0ddb2af50
